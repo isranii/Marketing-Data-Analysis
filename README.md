@@ -32,18 +32,6 @@ import scipy
 from scipy.spatial.distance import pdist, squareform
 ```
 
-## 📁 Project Structure
-
-```
-Direct-Marketing-Data-Analysis/
-│
-├── Marketing.py           # Main analysis script
-├── README.md             # Project documentation
-├── Training.csv          # Training dataset
-├── Testing.csv           # Testing dataset
-└── requirements.txt      # Dependencies (recommended)
-```
-
 ## 🚀 Getting Started
 
 ### Prerequisites
